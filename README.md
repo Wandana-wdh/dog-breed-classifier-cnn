@@ -103,4 +103,4 @@ All three models correctly separated dogs from not-dogs. **ResNet performed best
 
 Starter code (`classifier.py`, `test_classifier.py`, `print_functions_for_lab_checks.py`, `dognames.txt`, the batch scripts and the `pet_images` dataset) was provided by [Udacity](https://github.com/udacity/AIPND-revision). I implemented the functions in `check_images.py`, `get_input_args.py`, `get_pet_labels.py`, `classify_images.py`, `adjust_results4_isadog.py`, `calculates_results_stats.py` and `print_results.py`.
 
-**Author:** Lakmini
+**Author:** Wandana
